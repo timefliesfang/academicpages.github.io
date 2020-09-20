@@ -11,14 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Beijing, China, Beihang University, 2021 (expected)
+* B.Eng. Instrumentation Sciences, Beihang University, Beijing, China, 2021 (expected)
+* Exchange Student. University of Leicester, Leicester, United Kingdom, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * Institution: Cutting-Edge Net of Biomedical Research and Innovation (CENBRAIN), Westlake University, Hangzhou, China
+  * Supervisor: Prof. Mohamad Sawan, Dr. Jie Yang.
+  * Duties included:
+    * Researched the Datapath design for the unified structure.
+    * Completed simulation of program execution on a six-stage pipeline MIPS architecture using VCS software.
+    *	Implemented simulation of Convolution Neural Network on a digital chip.                       
+
 
 * Fall 2015: Research Assistant
   * Github University
