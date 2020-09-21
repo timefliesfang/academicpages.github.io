@@ -25,19 +25,29 @@ Work experience
     *	Implemented simulation of Convolution Neural Network on a digital chip.                       
 
 
-* September 2019 - June 2020: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* September 2019 - June 2020: Research Assistant  
+  * Institution: Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Interdisciplinary Innovation Institute of Medicine and Engineering at Beihang University, Beijing.
+  * Supervisor: Prof. Shuo Gao.
+  * Duties included:
+    * Designed and manufactured a 16-channel EMG acquisition system on a PCB.
+    * Investigated appropriate multisensory strategy to reduce hardware complexity for classifying different human locomotion modes.
+    *	Trained and implemented an SVM model for classification on a STM32 board.
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Program Languages or Framework:
+  * C/C++
+  * Verilog HDL
+  * Assembly
+  * Python
+  * MATLAB
+  * TensorFlow 2.0
+* Technologies and Software:
+  * Microprocessors: STM32, Arduino, Keil
+  * FPGA: Vivado, Quartus
+  * PCB design: Altium Designer
+  * Electrical simulation: VCS, Multisum, Cadence Virtuoso
+* Languages: Fluent in English; Native in Cantonese and Mandarin.
 
 Publications
 ======
@@ -59,4 +69,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice President in Sciece Association of Science and Technology for Student, Beihang Unviersity
