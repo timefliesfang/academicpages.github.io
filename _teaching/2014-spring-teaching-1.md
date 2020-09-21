@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: Application of Electronic Engineering in Biomedical Fields"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Beijing Jisi Internet Education Technology"
+date: 2020-09-10
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I am responsible for hosting office hour each weak, correcting the homework of the students, and answering relevant questions.
