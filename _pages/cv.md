@@ -16,16 +16,16 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant
-  * Institution: Cutting-Edge Net of Biomedical Research and Innovation (CENBRAIN), Westlake University, Hangzhou, China
-  * Supervisor: Prof. Mohamad Sawan, Dr. Jie Yang.
+* July 2020 - Now: Research Assistant
+  * Institution: Cutting-Edge Net of Biomedical Research and Innovation (CENBRAIN) at Westlake University, Hangzhou.
+  * Supervisor: Prof. Mohamad Sawan, Dr. Jie Yang, Dr. Yun-Hsuan Chen.
   * Duties included:
-    * Researched the Datapath design for the unified structure.
+    * Researched experiment protocols and analysis procedure for neural imaging using EEG and fNIRS signals.
     * Completed simulation of program execution on a six-stage pipeline MIPS architecture using VCS software.
     *	Implemented simulation of Convolution Neural Network on a digital chip.                       
 
 
-* Fall 2015: Research Assistant
+* September 2019 - June 2020: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
