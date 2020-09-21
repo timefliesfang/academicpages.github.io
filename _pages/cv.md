@@ -14,9 +14,9 @@ Education
 * B.Eng. Instrumentation Sciences, Beihang University, Beijing, China, 2021 (expected)
 * Exchange Student. University of Leicester, Leicester, United Kingdom, 2019
 
-Work experience
+Research Experience
 ======
-* July 2020 - Now: Research Assistant
+* Jul. 2020 - Now: Research Assistant
   * Institution: Cutting-Edge Net of Biomedical Research and Innovation (CENBRAIN) at Westlake University, Hangzhou.
   * Supervisor: Prof. Mohamad Sawan, Dr. Jie Yang, Dr. Yun-Hsuan Chen.
   * Duties included:
@@ -25,14 +25,22 @@ Work experience
     *	Implemented simulation of Convolution Neural Network on a digital chip.                       
 
 
-* September 2019 - June 2020: Research Assistant  
+* Sep. 2019 - Jun. 2020: Research Assistant  
   * Institution: Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Interdisciplinary Innovation Institute of Medicine and Engineering at Beihang University, Beijing.
   * Supervisor: Prof. Shuo Gao.
   * Duties included:
     * Designed and manufactured a 16-channel EMG acquisition system on a PCB.
     * Investigated appropriate multisensory strategy to reduce hardware complexity for classifying different human locomotion modes.
     *	Trained and implemented an SVM model for classification on a STM32 board.
-    
+
+Work Experience
+======
+* Aug. 2020 - Now: Product Manager (Remote)
+  * Institution: Guangdong Bairun Health Technology Co., Ltd 
+  * Duties included:
+    * Collaborate with other managers to develop the product, intelligent medical waste bin, for the requirement in hospitals handling medical wastes.
+    * Lead the hardware development team to implement the functions of wireless communication, information acquistion, and human-machine interface design.
+
 Skills
 ======
 * Program Languages or Framework:
