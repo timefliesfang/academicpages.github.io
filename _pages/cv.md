@@ -20,18 +20,18 @@ Research Experience
   * Institution: Cutting-Edge Net of Biomedical Research and Innovation (CENBRAIN) at Westlake University, Hangzhou.
   * Supervisor: Prof. Mohamad Sawan, Dr. Jie Yang, Dr. Yun-Hsuan Chen.
   * Duties included:
-    * Researched experiment protocols and analysis procedure for neural imaging using EEG and fNIRS signals.
-    * Completed simulation of program execution on a six-stage pipeline MIPS architecture using VCS software.
-    *	Implemented simulation of Convolution Neural Network on a digital chip.                       
+    * Researched the unified and optimized Datapath design to accelerate implementation of neural networks with similar structure but different data types.
+    * Completed simulation of executing programs on an MIPS architecture using VCS software.
+    *	Implemented simulation of Convolution Neural Network using the Verilog codes of a vision digital chip.
 
 
 * Sep. 2019 - Jun. 2020: Research Assistant  
   * Institution: Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, Interdisciplinary Innovation Institute of Medicine and Engineering at Beihang University, Beijing.
   * Supervisor: Prof. Shuo Gao.
   * Duties included:
-    * Designed and manufactured a 16-channel EMG acquisition system on a PCB.
-    * Investigated appropriate multisensory strategy to reduce hardware complexity for classifying different human locomotion modes.
-    *	Trained and implemented an SVM model for classification on a STM32 board.
+    * Designed the circuit using FPGA and SRAM to increase the data transmission speed of a 16-Channel EMG signal acquisition system.
+    * Investigated appropriate multisensory strategy and machine learning algorithm to reduce hardware complexity for classifying different locomotion modes.
+    *	Implemented a trained SVM model in STM32 to realize real-time recognition of locomotion modes.
 
 Work Experience
 ======
