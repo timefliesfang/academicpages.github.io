@@ -38,8 +38,8 @@ Work Experience
 * May. 2020 - Now: Product Manager (Remote)
   * Institution: Guangdong Bairun Health Technology Co., Ltd 
   * Duties included:
-    * Collaborate with other managers to develop the product, intelligent medical waste bin, for the requirement in hospitals handling medical wastes.
-    * Lead the hardware development team to implement the functions of wireless communication, information acquistion, and human-machine interface design.
+    * Collaborate with other managers to develop the platform in parallel.
+    *	Responsible for leading the team in developing embedded terminals based on STM32, NB-IoT protocol, and OneNet platform.
 
 Skills
 ======
