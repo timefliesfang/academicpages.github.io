@@ -35,7 +35,7 @@ Research Experience
 
 Work Experience
 ======
-* Aug. 2020 - Now: Product Manager (Remote)
+* May. 2020 - Now: Product Manager (Remote)
   * Institution: Guangdong Bairun Health Technology Co., Ltd 
   * Duties included:
     * Collaborate with other managers to develop the product, intelligent medical waste bin, for the requirement in hospitals handling medical wastes.
